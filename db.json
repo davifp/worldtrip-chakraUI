@@ -1,0 +1,54 @@
+{
+  "continents": [
+    {
+      "slug": "europa",
+      "name": "Europa",
+      "image": "/europa_banner.png",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "popularCitiesCount": 27,
+      "cities": [
+        {
+          "id": "1",
+          "cityName": "Londres",
+          "countryName": "Reino Unido",
+          "image": "/bridge.png",
+          "countryFlag": "flag.png"
+        },
+        {
+          "id": "2",
+          "cityName": "Londres",
+          "countryName": "Reino Unido",
+          "image": "/bridge.png",
+          "countryFlag": "flag.png"
+        },
+        {
+          "id": "3",
+          "cityName": "Londres",
+          "countryName": "Reino Unido",
+          "image": "/bridge.png",
+          "countryFlag": "flag.png"
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "name": "África",
+      "image": "/africa.png",
+      "description": "África é um dos seis continentes do mundo, sendo o terceiro maior em extensão territorial. O território estende-se por mais de 30 milhões de km², ocupando, aproximadamente, 20% da área continental da Terra. No continente vive mais de um bilhão de habitantes, fazendo dele o segundo mais populoso entre os demais.",
+      "countriesCount": 40,
+      "languagesCount": 20,
+      "popularCitiesCount": 10,
+      "cities": [
+        {
+          "id": "1",
+          "cityName": "Cidade do Cabo",
+          "countryName": "África do Sul",
+          "image": "/capetown.png",
+          "countryFlag": "southafrica.png"
+        }
+      ]
+    }
+  ]
+}
